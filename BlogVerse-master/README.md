@@ -29,24 +29,19 @@ BlogVerse is a web-based blogging platform built with the MEAN Stack (MongoDB, E
     * A code editor or IDE of your choice (e.g., Visual Studio Code, WebStorm).
     * Basic understanding of Angular, Express.js, MongoDB, and Node.js concepts.
 
-2. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/shreysheth/blogverse.git
-   ```
-
-3. **Install Dependencies:**
+2. **Install Dependencies:**
 
    ```bash
    cd blogverse
    npm install  # or yarn install
    ```
 
-4. **Configure Database Connection:**
+3. **Configure Database Connection:**
 
    - Update the connection string in the `.env` file (or a similar configuration file) to point to your MongoDB instance.
 
-5. **Run the Application:**
+4. **Run the Application:**
 
    - Start the development server:
      ```bash
